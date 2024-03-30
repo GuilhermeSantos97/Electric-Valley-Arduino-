@@ -1,6 +1,6 @@
 Olá pessoal, tudo bem?
 Aqui eu estarei distribuindo o meu primeiro OpenSource por aqui.
-Fique a vontate para criar novos aprimoramentos com seu próprio arduino!
+Fique a vontade para criar novos aprimoramentos com seu próprio arduino!
 
 Recursos Necessários:
 
